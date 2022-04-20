@@ -1,0 +1,114 @@
+.pageHeader {
+    margin: 2em;
+    text-align: center;
+    font-size: xxx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.species {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    padding-bottom: .25em;
+    padding-top: .25em;
+    
+
+}
+
+.length {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.location {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.food {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 2em;
+}
+
+.flex {
+ display: flex;
+ 
+ justify-content: space-evenly;
+ margin: .5em;
+ padding: 1em;
+ 
+}
+
+
+
+.locationHeader {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: .5em;
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+
+.inventoryHeader {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: .25em;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+.quote {
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    
+
+}
+
+.harvestingLocation {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: .35em;
+}
+
+.asideHeader {
+   
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: .5em;
+    font-weight: bold;
+    text-align: center;
+    
+    
+}
+
+
+
+.list {
+    width: 40%;
+    
+}
+.list2 {
+    width: 40%
+    
+
+}
+
+.listLocation {
+
+ display: flex;
+ flex-direction: column;
+ justify-content: space-evenly;
+ text-align: center;
+ margin: .5em;
+ padding: 1em;
+}
