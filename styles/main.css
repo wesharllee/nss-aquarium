@@ -37,7 +37,6 @@
 
 .flex {
  display: flex;
- 
  justify-content: space-evenly;
  margin: .5em;
  padding: 1em;
