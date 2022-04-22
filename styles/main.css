@@ -16,6 +16,9 @@
     
 
 }
+.fish__image {
+    width: 100%;
+}
 
 .length {
     font-size: medium;
@@ -62,6 +65,7 @@
     font-weight: bold;
     text-align: center;
     
+    
 
 }
 
@@ -76,7 +80,7 @@
 .harvestingLocation {
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-bottom: .35em;
+    padding-bottom: .5em;
 }
 
 .asideHeader {
@@ -91,6 +95,9 @@
 }
 
 
+.image {
+    width: 40%
+}
 
 .list {
     width: 40%;
